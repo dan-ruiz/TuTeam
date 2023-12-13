@@ -22,7 +22,7 @@ h1 {
   color: rgb(118, 188, 250);
 }
 
-ul { 
+ul {
   display: flex;
   justify-content: space-around;
   list-style: none;
@@ -42,7 +42,8 @@ table {
   border-collapse: collapse;
 }
 
-th, td {
+th,
+td {
   border: 1px solid #ddd;
   padding: 8px;
   text-align: center;
